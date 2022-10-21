@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CarSellerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-21T14:34:07" hostname="MacBook-Air-4.local" time="0.016">
+  <properties/>
+  <testcase name="findCarByBrand_Model_YearTest" classname="CarSellerTest" time="0.01"/>
+  <testcase name="findCarByBrandAndModelTest" classname="CarSellerTest" time="0.002"/>
+  <testcase name="findCarByBrand_Model_PriceTest" classname="CarSellerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

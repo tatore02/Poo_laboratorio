@@ -27,7 +27,7 @@ public class CarSeller {
     public List<Car> findCarByBrandAndModel(String brand,String model){
         List<Car> searchingCars = new ArrayList<>();
         for(Car search : this.cars){
-            if(search.getBrand() == brand && search.getModel() == model)
+            if(search.getBrand().equals(brand) && search.getModel().equals(model))
                 searchingCars.add(search);
         }
         return searchingCars;
