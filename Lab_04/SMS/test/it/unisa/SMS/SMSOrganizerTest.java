@@ -14,8 +14,8 @@ public class SMSOrganizerTest {
         SMSOrganizer smsOrganizer = new SMSOrganizer();
         SMS sms1 = new SMS("Dario", new GregorianCalendar(2022, Calendar.OCTOBER, 16, 15, 1), "Ciao");
         SMS sms2 = new SMS("Anna", new GregorianCalendar(2022, Calendar.OCTOBER, 16, 15, 2), "Ciao");
-        smsOrganizer.addSMSToOrganizer(sms1);
-        smsOrganizer.addSMSToOrganizer(sms2);
+        smsOrganizer.add(sms1);
+        smsOrganizer.add(sms2);
         List<SMS> messages = smsOrganizer.getListByDate();
         Assert.assertEquals("Dario", messages.get(0).getSender());
         Assert.assertEquals("Anna", messages.get(1).getSender());
@@ -26,8 +26,8 @@ public class SMSOrganizerTest {
         SMSOrganizer smsOrganizer = new SMSOrganizer();
         SMS sms1 = new SMS("Dario", new GregorianCalendar(2022, Calendar.OCTOBER, 16, 15, 1), "Ciao");
         SMS sms2 = new SMS("Anna", new GregorianCalendar(2022, Calendar.OCTOBER, 16, 15, 2), "Ciao");
-        smsOrganizer.addSMSToOrganizer(sms1);
-        smsOrganizer.addSMSToOrganizer(sms2);
+        smsOrganizer.add(sms1);
+        smsOrganizer.add(sms2);
         List<SMS> messages = smsOrganizer.getListBySender();
         Assert.assertEquals("Anna", messages.get(0).getSender());
         Assert.assertEquals("Dario", messages.get(1).getSender());
