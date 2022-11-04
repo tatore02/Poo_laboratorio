@@ -1,0 +1,110 @@
+type: edu
+files:
+- name: src/it/unisa/school/Person.java
+  visible: true
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqMIUCrU43T46mlI3AOmEFohbf8IHCue0wYQT7W+bPPAJR5M2f4o8zdrVc1tPGqdJq+IgUtr9BBGfNSz7mFJeFEBA6TUlk6NSXXAcNcdJmdoqfpR5CbshdDOEG2wFZJVRNYO7NKkQnC5Vnm0mASwQbfE9FEtjGueN+hr8nLR6u0Muk30RkpW08/2tvXk8nZWhAe7BWq5Z5WlBEqotlMyQxykcpOFPtuEuwX0fuCTXXwRM/XoIvSpsFkMs7ahfnrifXP1B5Qugi97iNB7FBKRNtIQpyN7i+q/Gm2PWJ/cxX6j04tgL+2tsw1SQZLXXrkUbp5yenaqrjz4DpJNRdK/5xcauTGq5TCF3tYMmJ+eaYhgmz/Axq8u0BwOZvbDidC/JtoaMGwSTlSly9NvJV4gwPU4kt2Pm3w6ej9CtH/7ATlcnxuAsjwtJ7bhxHUwMS78KjXtk0AOgGWFq5xvIC1BE69f3AQVZACoKqKpgAvm9vTaE56Chs/gxc9An5w28g4uET79yxkT4wpGeOvjQpsTKkM8EuTJVObCWuLR4eGzQG32AXE65u8P4HtdGRyR8DSAeGURawxwyk/6X7+SQFzMh3ZVI6w47P3IQnrTJ66Lh2tl101KxuDxWL2mu1a7gqOhgs2VYpwQiRgMHSVtiqz/dk+534HX/i8lhwbNFzfJUO8Dh1EHDtMQayIkHPEgMT+inLbE9uEGVou4rccAs6JUThfibD7IsOHd0yCJZmkIXKzTBCaU6a+J1sWG1ZJ5UshCR67TckOqt80YxR1kwe2YlXL1Iy34l6VA/y8mt5zc6QKPKg6LkOSfn4GtSK6OcfwB2fMOe9Io8p9gVnAXr+Nzf+cGWS5J/gy0FRaLH77SlYbsuvLt+FHpTjLG2vOKYrw7Dl5rVF+lGC6dl6sySRrqkZWo=
+  learner_created: false
+- name: src/it/unisa/school/Student.java
+  visible: true
+  placeholders:
+  - offset: 47
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 47
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: xTttar4JhBTdXhVvoEe7+A==
+  - offset: 65
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 65
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: QynPptvfifBZ+dcy65+m/ol62q+v8qIIMs8D2PVKmxQ=
+  - offset: 81
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 81
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: DEib5423Y8u/qwhdL6pfRGAgQnu6Vio5EkQfS5CVeuhmLQIuLcQJR+QDkhaa8switXfoIkIo95NHfMUe40KcUQhihweDMkdK6eZ/8LXbDPo4WMINYvIUM58XX7AYufm1wAhK1YNjoW96KSG5/EUOtU/31WJ31wLH2wW1TVuOdqydfLQ34ToxI5QZb1rjkAUjL4a87GnGNae2mex3QSTKV2vkeaEFWHuhOMBOkpWhrM1LV/88mlF98OswsK6ExU8t
+  - offset: 97
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 97
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Fq7Q6bs2T8qvamStOxd/6RcCTvMrrLjz09qyWSHqcM2dri1RHFuOouZLT9QZUt6EfOleyDWNLP1zbLizU4RNmd8FmPtOLG26TzZAYSSAv1z6gjqGFCHXpDVP+0+2BzPBthBFCXlkymDt3ORuRXtr0ZIToAvEInjy4cLmpXMeWFxHZPCXljfMIgqDZHq0LzaVNVF2fFlB86/i2eFjfO+uwQONnWi4F3lT5E0vHTn20EeLTdQ5SPjNNC6MyqpYYqbkHb34IZvPFRgXiloqbcssE/RVV1j3uCrGa6pd8g6hXqQ=
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqMIUCrU43T46mlI3AOmEFoiXgHtlrtjoYosc1MJqa2VqJIobae24bFux4WbTzWHFqHCsxGG5Xmx0hW6RyYtbDyDu95L95heNHlSDNcfR+bklAsdYX7brclvatB9BJYZ3ztbxM+RAotxWkEk631XfHEXI9Z3WfzgdMg3a5F5/97MW3kakP4xQMEQ4gGf3CuN/ZsCS0TdjyHlCoZ2FsaHhZBkGYlbW7bFk5NHhv7t/PZlGKBmzHN5lxEQmh6L0DSWsd0qeel+6fmJG4pVFAGDoHdQ+G8mvwOBup/+5q47DS/5nRSf/PAv+UMHARcgx2LzgTw==
+  learner_created: false
+- name: src/it/unisa/school/Professor.java
+  visible: true
+  placeholders:
+  - offset: 49
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 49
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: xTttar4JhBTdXhVvoEe7+A==
+  - offset: 67
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 67
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 3K3MVePIeljeQyoTnx/AarvJ/oKdIXniXqCPlrN4n4WH1b6bD2wy/MGCqO02BwhX
+  - offset: 83
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 83
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: GIkcU5j8758cLsaWvdeB6Hwy42dTpw+FvxyHkLYNwt4YqfL1KnpUhpBJngYFWO4TnpVZTmmMTRAwPwUQGawRjndkQo1dSE5bQXpFF/ToM95p/lDw/6jPclj+EZdpW8fdD3qBGidscGH0Z4TKhzjsIvB8ciUj2r03QEDnTG8T0bOsyAj1mRy3D2hqcT9aNKds8w4zquFggXTRorBO11KWpB/iFTKqAlAOdvJSUQ9k3suIXDJoIUkoOQR2CpBSUjNI
+  - offset: 99
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 99
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: eL2btLaNsJiFXYgIOjglni2OmGzc15Y33kmHVIlyMElHIt7ajoebAI5S3tAY956IqT1kDHwYQXRDRzTZqv8WatdyGT8HdPi2lSsGvOgJF1V4pCdMylXD6CK0d32kAQmi1gGueaktmRrHYggmt66DWOJHkDx0dWMbDgZQVqdAW4/gQGorTdXGleVjZ8ApuzEYc8lD4g69+zXRRiU1ftzdua10mnFFHWcVQ/KtD7Q2me87xWzGm8enQ0wS7WYf27iUj+PxABDpGHOg4B0N+ePsXxLq/76AtQjy3gfSFyTe4ujl46Kd4nSksjJA4z+U8iX/gUsiR7HFpEOwtCABOsU9MUNoVeWb18fmLxNz6AFrQaQ=
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqMIUCrU43T46mlI3AOmEFoj3EX2S4IOFP1T/Q8HmqiaSt080+mpuxVyQ5tEU34IFqudG8MoT2y+1dbZKlFtpai0VAjYt7g/N6y2Xf2x+jnBG4U008Giscm0RIQuGDbYGw8vb7ES8URjvZe4GrEG9qV8FpYmux0cwg/0rJL9ufbKYQjKGjW3zFdkiuxyV9thjmD+EvT47R0hpXJ8WgXmGbkHc9mQ8jud4G5UtMe9fb2LtKUV3auIJmk/+nJO+6aNf/jY9oW168ZDLXqPu/fvz1PO9hnC34XpqvjcwP35BbS2l1wafJXlucgxr/yblwUVYkK2XU07BODl97jLACj9yL+6x6TVjH9+jnXZxNrOSWu5u
+  learner_created: false
+- name: test/it/unisa/school/PersonTest.java
+  visible: true
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqJ2ZGxn7OoNSllzEECVNBRGSJePugHY87KROtqHZGgee4wFRJrVpxZ3qfUu27kD4PDsUaEmwsPNSGuRDvyQ609RUsoySKQ0Kwv6inPH4f449rmOGXNPzYGarRGqMstI10NxizuVZbJDVdfCYChcu62wft72YQ1lklvIEp5RDLmgAKN2vAB+lLCseQkxBajV79H2H4gLElg7swZx2DRQ+uMR7H8ddaMjb1IkW3vtLGmPbRr+mgJTWe87lKlzgfNxf6jmIQJq0g8nn3jzx0Yj5uB+9UuLRkqa72crbZY6wiB6AHKJxS+fjNrG6kK8NcN0qMNwL9oXTnGaB9bKthPDa4SG0DZZ0KDIvSM7fHBwrK0XemPvbGcaLnargNAiu9CTP+SnHjLJ0VtAl+7O7f85cEF51pY+jR/duOZtmB7GZ13aA
+  learner_created: false
+- name: test/it/unisa/school/ProfessorTest.java
+  visible: true
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqJ2ZGxn7OoNSllzEECVNBRGSJePugHY87KROtqHZGgee4wFRJrVpxZ3qfUu27kD4PDsUaEmwsPNSGuRDvyQ609Ri6wxnBuzatFcrAJ0kXetyxD7iW1Ef6LgRiPxfj0udAPmJhcWfVVFHHTxKBxShwsuvXo3fDe/oabxqCc6+jNIwcTpx3Eek8Ww1yRI8Ruhu6uwoY9lBB5ZZjO2O3oTd1k7fyQnSgodPDUGmX98wRY6rW03f3dKIqd6lNno2e3hotZfspgf84WNopZWZxN78AbExzyTU+J7ISnNU802xzJrZOfkiCv+ywLzZPLInEY5U3Yfo6HVL9xawIeQPoa3uL9jxzJ/ETII50yk/gLsv6Zq/+dTvCmBYsnlIn3UhPaWs1tASNE+hveEEbHQKtJpR7CpdpNjJDFbDTKndVMu+yxnSnzMgpqL933cH0eY6Ojzj3SXuTuXSn6dAFAGXLrHXopx8Ad1KN1/ZDSd9VAIoQT4Z
+  learner_created: false
+- name: test/it/unisa/school/StudentTest.java
+  visible: true
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqJ2ZGxn7OoNSllzEECVNBRGSJePugHY87KROtqHZGgee4wFRJrVpxZ3qfUu27kD4PDsUaEmwsPNSGuRDvyQ609T2U2bgESGNC9QRJ0g3J/ROF6e59rzuaVuv/P66v0ZJAgebmjr8nStLZ6qUEjOMwWyNPRSB+DZol5+Yjrx6L+DWoXPGlRnLTRcobM5Kwa8kVBRMBa8UiFUEIqf8pyBBzLV7k4gBpQCdS4zRqKL2iZv7Zqyq1Yvg8jNPQtCtXIsQWLpRFnlGrLwU4BlHD1Vcyk+bKyYF5UclsDtZVzI30rrUPOfLhExSwPlrWrEk+usvmP0iJeYb1ii9ebggcDBwdOMOaxSJLAqQq78gRuqRD21nQoJyYGyK9aAGPWF3r4ccANQDtfKZEHhWMbuZHQSQnrwTgEoyG2F1mHrOBGC2kFIjs6bGV5OnlZ1WCqXJWZEM2lY4fUt3bXaBK1Pg9srb4LY=
+  learner_created: false
+status: Unchecked
+record: -1
