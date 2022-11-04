@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="it.unisa.SMS.SMSOrganizerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-22T16:25:58" hostname="DESKTOP-5GIO2HR" time="0.005">
-  <properties/>
-  <testcase name="testListByDate" classname="it.unisa.SMS.SMSOrganizerTest" time="0.004"/>
-  <testcase name="testListBySender" classname="it.unisa.SMS.SMSOrganizerTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
