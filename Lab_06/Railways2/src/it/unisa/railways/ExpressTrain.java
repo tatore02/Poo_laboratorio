@@ -2,11 +2,12 @@ package it.unisa.railways;
 
 import java.util.List;
 
-public class ExpressTrain /* TODO */ {
+public class ExpressTrain extends Train {
     private final int numberOfRestaurantSeats;
 
     public ExpressTrain(TrainStop departureStation, TrainStop arrivalStation, List<TrainStop> intermediateStops, int numberOfSeats, int numberOfRestaurantSeats, double traveledKMs) {
-        /* TODO */
+        super(departureStation, arrivalStation, intermediateStops, numberOfSeats, traveledKMs);
+        this.numberOfRestaurantSeats = numberOfRestaurantSeats;
     }
 
     public int getNumberOfRestaurantSeats() {
@@ -15,7 +16,7 @@ public class ExpressTrain /* TODO */ {
 
     public double computeMaxRevenues(double serviceRevenuePerKmPerson, double restaurantRevenuePerKmPerson) {
         double restaurantRevenue = this.getTraveledKMs() * this.getNumberOfRestaurantSeats() * restaurantRevenuePerKmPerson;
-        return /* TODO */;
+        return restaurantRevenue + this.computeMaxRevenues(serviceRevenuePerKmPerson);
     }
 
 }

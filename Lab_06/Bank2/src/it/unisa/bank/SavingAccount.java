@@ -1,6 +1,6 @@
 package it.unisa.bank;
 
-public class SavingAccount /* TODO */ {
+public class SavingAccount extends BankAccount {
 
     private double interestRate;
 
@@ -8,18 +8,21 @@ public class SavingAccount /* TODO */ {
      * A saving account has a balance that can be changed by deposits and withdrawals.
      */
     public SavingAccount(String customerName, double interestRate) {
-        /* TODO */
+        super(customerName);
+        this.interestRate = interestRate;
     }
 
     public SavingAccount(String customerName, double initialBalance, double interestRate) {
-        /* TODO */
+        super(customerName, initialBalance);
+        this.interestRate = interestRate;
     }
 
     /**
      * Add the interest rate for three months
      */
     public void addInterest() {
-        /* TODO */
+        double interest = getBalance() * getInterestRate() * 90/36500;
+        deposit(interest);
     }
 
     /**

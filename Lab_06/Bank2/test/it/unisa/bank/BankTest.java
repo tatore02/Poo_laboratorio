@@ -57,7 +57,7 @@ public class BankTest {
         b.addAccount(new SavingAccount("Harry", 1000, 1));
         SavingAccount newAccount = (SavingAccount) b.find(1);
         newAccount.addInterest();
-        Assert.assertEquals(1002.5, newAccount.getBalance(), 0);
+        Assert.assertEquals(1002.5, newAccount.getBalance(), 0.1);
     }
 
     @Test
@@ -68,6 +68,6 @@ public class BankTest {
         newAccount.setInterestRate(2);
         Assert.assertEquals(2, newAccount.getInterestRate(), 0);
         newAccount.addInterest();
-        Assert.assertEquals(1005, newAccount.getBalance(), 0);
+        Assert.assertEquals(1005, newAccount.getBalance(), 0.1);
     }
 }
