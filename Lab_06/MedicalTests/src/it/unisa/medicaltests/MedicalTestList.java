@@ -14,19 +14,36 @@ public class MedicalTestList {
     }
 
     public void addMedicalTest(MedicalTest mt) {
-        /* TODO */
+        medicalTestList.add(mt);
+        Collections.sort(medicalTestList);
     }
 
     public List<MedicalTest> getMedicalTestByDate(GregorianCalendar date) {
-        /* TODO */
+        List<MedicalTest> byDate = new ArrayList<>();
+        for(MedicalTest search : medicalTestList)
+            if(search.getDate() != null && search.getDate().equals(date))
+                byDate.add(search);
+
+        return byDate;
     }
 
     public List<MedicalTest> getMedicalTestByDoctor(String doctorName) {
-        /* TODO */
+        List<MedicalTest> byDoctor = new ArrayList<>();
+        for(MedicalTest search : medicalTestList)
+            if(search.getDoctorName().equals(doctorName))
+                byDoctor.add(search);
+
+        return byDoctor;
     }
 
     public double getAverageCost() {
-        /* TODO */
+        double tot = 0;
+
+        for(MedicalTest search : medicalTestList)
+            tot += search.getCost();
+
+        tot = tot/medicalTestList.size();
+        return tot;
     }
 
     public List<MedicalTest> getMedicalTestList() {

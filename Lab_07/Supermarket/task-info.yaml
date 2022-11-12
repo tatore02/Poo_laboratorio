@@ -1,0 +1,243 @@
+type: edu
+files:
+- name: src/it/unisa/supermarket/Product.java
+  visible: true
+  placeholders:
+  - offset: 260
+    length: 29
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 260
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: cQrvnVsyQyDk3acw0Ewpu1OWJumlR+NXhifaESb+3p4=
+  - offset: 548
+    length: 27
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 529
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: YT++fjYD7AtHpbTgWYWETaKIN/vFXEoL8R0BZfgCxQ4=
+  - offset: 939
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 903
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: YT++fjYD7AtHpbTgWYWETaKIN/vFXEoL8R0BZfgCxQ4=
+  - offset: 1024
+    length: 191
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 988
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: dfSNiXi6xusmEUyQUCgOozu/4n9gfmEWYnPDw1+tLttPW+W1kQY2dS3XIs+RRiRtVakOmYWxbNV48A5SQAjwItVXLYXglHxw1yFccyUP5cVHfSyNPne8NsIBgubMf7Ed
+  - offset: 1263
+    length: 186
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 1046
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: xCqGPHYixFjHGAp840d808Z1GYj5Z/ZYf7qx6vVy5jzWttmRa5rsF3Pg5gPrPir4UJK6dT6kwswkTqtps8uUEHzHiAorktRiqAKF7w7Cq+T6jWaYnXftnTmGWz49gvJFjmLXZID1tT7GtCCJ5ReIya/6ieDygcuBblARYVJFK09wN9naOrzz8DM5p7RriCVZO8InYSRitgYOS6GtW6rwot04LmM0XZNzZzGeCFBJPEQ=
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqP6hl174JantgVJVxVzJyCysqXJhzpX+O5SW/Ih7Rh7yPhAl5vRpcqeANSI93iEk+0xVm1aDhODJYIP5BQTDuCukw7K6H6c3QvHXu6B0iDj1LKkukO+hmKGRfIs+kxKCnmYqVAXFVpJ28Iu6f9tFRb122rJq8XWHBtagjNAaPz67Dgqf6ubhwMjJHozs4mPDBXU7Yl2jJeNT5f1istr9D7hMcH1ee6ua+D4LXvUbiT1J4pgGiDjGg9ISB20vIBNuo8AWdhFIi48YoxGSp/M3U5mD8NpLTOaVoQTOXpcU1q2vtj0NRmYWifIYA5pxzUQ5h0+Yp7Q/Mk5IsW1KnWkb1mkkg4VbmXV5DM6oQ2/md1IyncgrhHeX5i+9pW3DGEvTZIdESvKReLYyXlAOEM+S1gZXms8Y/ZmubwLKX5wdFi8p3FsJL9/Ucm3h/eTrU/bGXZa42Or/ObbluVZ/PWr0JykZmYXVVe968E+uzkskBED7BPWOlQp67/CWBFsHn6y/cRue5SUAEY313cGE6S/uzIE796aboVNqIKP16Ld+XZ1Wqw7eTX0VcxA92tQB7wz7bMaTcV00y+D0cIijUpA7KYMjeBRlfloSTq5l354e9/PGs1CVqF/4dJqDsgogJ/l7bryAK4QQDJQY2/aj642E7pEHEV03XVF+3ZEncFH+IJ91J373BPwpyp0aYZK5gbhA7Usu87FBBaHb4Mwl9MfZGFBysjqL4hXvjmLILiT4NkhgNRaqa4IZrO0SpTxLSJHZt8TMDYafaBZUAq41NwL9lnvwXG5COUNErlnmfKMwLx6HxrZ6KhdzPHZsVokRlJR8MyE7eo1TESpkiYQchOFAyNd1oR33T6p/UJ6LfHYp3damcesKIniiKR1QQCkjNkbcRlU7Y9QPJhJd9kzNCAdJz9elytlpmmBfvOUnr/+91JvEudWkX72Y9yDiJcqKwrXK5YaLD/OCsxlZms/S3cy3eNjfeAdolbmohlzxMWs4mepFkshduqO/WGFSSf38TXEh6GOXmspt1Bh16aNO2pucYq2fiM2Cz6f6VaJRiMOZWNJJUm+RKc1YlDtUlDSgV4C1LmEQPUynI5ewO328mUjanLH5//OMzhG/7fqPgenJOJ4DbqoyxfF5o/POZVb9HN9sluIKCl/Aq2jedZWxHG4JkuY6xBihQfAHNQ4ZAHd0jZXfr5QfOv3g/TFncURUKRCr+FYZEwcSGxLPmqSaVN1+Ov/iCTtvNtApf/8cS4C70xBoGyj3p1PeweXpuyDdkU7reht4F+4WbDnsPcHrL4vy1/e6FTLXqzkzsCfAAU1rDl0Oqp/fNrXDUrZ4vB5t3m1Ad9bKgB7tLC+GlmoqHkwYl9hfWjpNrVcvV4UgLft4MWplHW8/qPZlcAlo6Mh8xdsOS/9eMJSLLXw1Oa6nmtj9R1t3fRIhP+ay/414T72FS0cW4vPFQGLYhMaxZp302ZLsQg==
+  learner_created: false
+- name: src/it/unisa/supermarket/Grocery.java
+  visible: true
+  placeholders:
+  - offset: 89
+    length: 15
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 89
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: IiWW7xZScw6RPU5699sPZQ==
+  - offset: 875
+    length: 171
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 870
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: rydaPfk0X4RmkWkdkoZFEBSgyixzR0Nll1U5sVQ8sRbdS7VFae1HYYwOZRUjxuf3iTAZbR7HUyR3xUCBCGf1espevwPomWEHq6dLOHU/NFJpddXIHQqHD2q9QkQ/UqCliySaCXKW3YYmeDtJ8z437Et2HRvUfz8ctrkOFl3iryOYiS2U2r/RNyziy1X7j8P6j3AF0W+05bFr+ENY54WIGQHLzrr9oglR4pd7vxy+Ct8=
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqP6hl174JantgVJVxVzJyCysqXJhzpX+O5SW/Ih7Rh7yPhAl5vRpcqeANSI93iEk+6ktIFMBlaAfbboUA009N7tlNyGeVG70bCI54U7OOrpwdDF4lMxFGf8nhoRMhrJteTJYZtmzQU2Oo9KRT77KVYc9dgkUEHikJJ55Z1LLKlupZD3SDvMPp9cOL3k+FwhoNnSYg8tQjD9bAOBSXjc8ekSvJOnEJKOAm7OnCy1+4dJ9bSyC5Ccs4bg+K36JykaWT8tu8I81nF1QxPGlIDCjnoI1SSyl52CpM4E0TfJZBr35eqHHG4FpLO8HPklCJ0BDxqPoDw9bHy5PAlDQ/QLaCo6ImWW9KsKJxiXiSVmAIrKGCt7DYxXbVBTT2hAVB4DwacIOSBeO6PmJeFOctgEhjFVxFf9U057zjdANMI4I0LLMsuwwQKBIbf0tSz++4GSqW/LeuilLWdNll/mgxCNbhnrXmMeur23T/rBa5Ar4NehnP2MJDsiAZyznqeiuuGSu4TPiJoAECulZ56CHhgX/KZQ9m0tHjj2s0l2KD/n9sdPdR5CpE++fQqIK2J3eUsmec860r17L0Bivx9uqsYKe8Xps7bh4WbQwFaTUxDCbXptroghWlvknyNODXNti7nqRCWxwhv/ZYG+apTje5BEFnmTO20EF/V4quJfH64gVneQZZBn1XhWohK94ORoCW9wYuwUOYjMUabLBvsa4LvtOnzh4uSnwkU6hiWGPAy2AU5UPWECWEh18HMFLldeDZiWrWBK9Mk8DeCexthE80qDcx3XDTdNUWUcYUaA/S0uq1rH9DMhMVgiENafuNxz2RAp156rrGSO7vl10ESoVR7xU478QH0ZuqAt9qOR/5fTfuM51k02abXWw4noI6BYI2CQb08hP0ggnyerH9UF6XpUXTYGhk68KJE147DhRLlctZtWoKQOBfZqEgEZUsl59zAh8FGhKwdKWWs1E60wzGNbmsD04dMlLWOqS9OLP0bbtgtwCtueSDXD+J8g6T6e/+dqE8sGXlOrtc6GKSJsVFyR14ZMPZpuoBqCCeUWVHAJMaCMQrxQO3nBNVTeo4G+4KKa/43cqmcqMwTSIMa6gYhbZffa+rO87gGRvlYPaR8elfkz9rfdO5redlaLVdHBOlYrQX/YkJldOGp4GEiQFzSYUTZU=
+  learner_created: false
+- name: src/it/unisa/supermarket/Electronic.java
+  visible: true
+  placeholders:
+  - offset: 55
+    length: 15
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 55
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: IiWW7xZScw6RPU5699sPZQ==
+  - offset: 1047
+    length: 174
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 1042
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: rydaPfk0X4RmkWkdkoZFEBSgyixzR0Nll1U5sVQ8sRbootf2muVVrI31FU/paa8Dsw586E5346zlk6iy6IB7WZAKuoiuFIqZ4TblQsZBiRw1jTiCgwr67vwc+PXA+JG9bbH2ZxLGFU1icqRWUF/7wJ49gyw4QFY1UjyqCBfOd9jRFrezhrMhpnYP2z6Vl/VyMsH85DW7I/iURF6k0n+/o5m/IcBPFo0YOz0N08Dd7erQxwubcvQcQzhZGYkAIAen0bXN3XbrF7ZgajTjgCSvcg==
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqKZiAGSXN0sOr2AAvvPQH3VHGORP2Kn+5KnG+kEFsULgqmywm5mdwxAxd+Wzfi5tM4dUb0ckilvhNgSPwgyhFSGThn9W6tLFG2CJtzNmBHC23EMXUijGlheohXDCzjjNJrD2CS0zKlKBIfDuGSDIfNYwZn76ofNJun8zDy0LIMMJSUleMbtsi8AqB2FPVVMq9WQlGil9uvsQoJfYrVuXo0lguMz1+dT0J9zdRyC31zTUJGmvwCj+V9NRjzNR/AExsy2AfaJJsRCXPEcNtrXzASTYVy8R4o6wC+oSmxg1QFEZztvesWVoELyb4WNIGELFoLxoeps9PXzb2wwpL7gEOCnroU93mSjk6HhfxgAiKhitaetcL66vP9Q4DIuSyRATapYUwAiWxeXupUQLK6pveSrGqrkig5OK0D8t9Oampzs/pDWXANDwlQCEVcI0nx/k2psBRZa/3owYjj+/84x3aNdS68yQHia5syKBsG6uchKQCkhoV+f3YC2Zup9v5Ps6kiQ2UzZxEcqyyogU65Il7/N7h7rpYbJNfgk7iDgzx2rjTDL+L9vlnQjJErxZaIAE5V1soeYTKqmCQNqTcMmPaTUdCKsceUqsTexRGLgywQfza/86fyldgFhzdJAvDyzw1xIEz2sJd9BjWSXAJ1TfAUZ9gDyt+TJznyO+NyxyjwGYZa6ExGptYEnvMBK+TNTf87z480pStKFWe3md35A9HO3nhxk/TJ2pqr9WOMqga3VNrCd/27GmnH/CBPbYZTCGty7dIJvAIc0qN3raM0/sm6vMlxSZSZ0hk5EdU+0c2CRhg4adgcvAkTlKZnziKuN8w9K0VHqXXVuIAQJV1/8QhW36leDvOhEjoYP22b18CF706iObWxBWrSZKrnG6JjAJfLdg4CnO3ZM+9js70mmYptY1MIMjTBgAX/mms/mTALmLYuqNHCSXrpwTf6dRH/r4dzt3heGRSnJM9qp03LfJqhSjlBJ6db5NEjPhaaHJIqWDwfuSl6H/IgIA25db5oKJRWrCsnMvXiis1EUPZBlk1VJfdmFGatlOzgv8ZKRD4VN63f1mgsLL5KwHIJehG2C7EhBCbXrKP6hEtiGqUm4vIJBqvJXOR0PHd4yLJNtLZk2riifk099nizHWu139jSeaTZUisn1XpaD7C2BMR+z38ararDXB1D4rVzDMBpwK4s9DWBaz5NiFjjvvUrMqfNXVVdtHoMY4hDcB/gQcVe2oN5TtT0mN2e4/HPuaoKryuxqotg81oDuzl91jOxlBAfhqf/xL2mgp2xAF20XxSeT2E7l1LxlM9PIXcT6AREvV/Omg9yccNS41/BxqRMx9nydDuwIBFoMa7aPdwr8b6NduuU4SgevHp2zuBGLJWYbQac+p
+  learner_created: false
+- name: src/it/unisa/supermarket/Supermarket.java
+  visible: true
+  placeholders:
+  - offset: 309
+    length: 76
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 309
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 6NqI0JOd+oFp314wLSS6VdqejdSqzbbr0Szl7cqiluCRMO4UHfEorWAG1RLWps8otvqLaUIwd4bvlicH/+Zk53d0wb9fk0Pp/sqeRvH8y8OT1KwnGi1BJ0cOr6a6k1wY
+  - offset: 507
+    length: 204
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 450
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: Oon/ZW5Sk0BcJ6awe/Zd1vOAADGVsLJZkgzB2sv0uLOVwCxloNlarB+NpRCFsAN0YEiRV/0hpDgubHXnzpJ5QOyqD43tCz4GBH9YnQ8YBduvNFYcagpJzV+iX7acLcPLAJV2MKqzm4arhCNLuhvg2dkLNoKnf01EtT1Col+3dLlK8SChccS5CuV9FVOAlLwfd9zD9PhN1U5SktVOuM7/f6U/v+Q6+qp57KSZLTCOW9rOuAqGbSlkEIPDlYP9G3KpmDwYyrJSbJeRNvji/Ast20gvOQShP3+ck4JHCB4QlTw=
+  - offset: 762
+    length: 64
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 511
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 70kPn9E8cKvf3lOc+c3DydFLeorE0FoVHYi2nbSGnA6nFAGaiisf6RJyl/9TL/lyW654EI3on8a3XvLVRpVZRJSr4bMiBogfnJYHeDAModo=
+  - offset: 877
+    length: 64
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 572
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 70kPn9E8cKvf3lOc+c3Dyatqu3UbpK5FzDey+IrDgaAfzKG82wlauumq2wyfZxpl1qyLAtR1IIrkma9VKmlN9kbXqmmgexmPIL3RmgzVssE=
+  - offset: 1003
+    length: 183
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 644
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: BA2EF/gDYF/jmfa5aayBGVv4sAAcHuT8Ya8L5QXdZIQws54ukjplXzyzhTjoaDi/BxaTLvNET5hAEzpNL7yf+Dr/jabbrm3Xp7RWrglamtF7vpp5FP6kD9F9kg5GPOmon+efY0zyUt1KS95KoXxausRJz10016AHLoLIErvjB1GIg+oKLcclsWnCOkojlKpINO/wItlRO/loTn7rBfy8ufloRJJV1yYwG5bc1fRowe71JjVLFC5A7gyVcxUQKBBCrqV5psbienHQ2VrBKM3CIw==
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqP6hl174JantgVJVxVzJyCysqXJhzpX+O5SW/Ih7Rh7yXt/VPRXSzGBeohV6P+nBioM4uDWIIczvVPI01SpovQa/BErI0Ex7PxwnKENb1txI4emeoYqAryocbU4ejFb1/5lrD338cd+CrLpdCUtboc6IkWLXiwfYhLvCA4GcK1q7+/D7WnYKp5Z6UOVWHPXbxkfKzIHhSMscp+xjGK/JaSuSjjdqyovBs20cJ/uB9DIdA6cNd8mmJzD72Qp2e273NOrCW9TIM4by3XQkqeTVQAQI6t3ov2IwJoqOkeSKVNl/t4ar0EackFcbDUO6BUsoD0yKfUzrtkUZiScXBjc63SwT4mHW3+0uKyJbHEPFyYooRvfXg9tyi147W6p4HXqXdtZC3vmYsMHOgcjSVIwWieuqDcTYWarO8k1ZuH/MenSUHkfyL6IKrN2z2J29kSwaNBhifkhuBpYfnmxM4jqH/0eAAxebz+SBD+wAsq0iliJyprQXrYrF6TpIkQojGzPnY6wwDk52H9U8PKmVIhTjaE4sQh5Ke0RZtQ9GzjceyEUNqnTKr2UHLOsTJh05AJtoBtaVRKURNIDYv7xtKlQ7AWp1FPljD7lqbf6QMZTiR6IdXEc8Ps2nMYwytrHAXREqN1GcuccmY4RpDyvnp4a+uhmJRxGz6FFXG8J1ji4EsjN0NdEk2Zm5u/GQTBhg3xtU3kBS8pwRbYAww8YfCHSsXlOh38h+kb8X8H94fX3I8ol0t/MYFDs3GQdE27rc1Epz0ObIy7b2fMhJE5d0Dgc1pgOoaH9iDg1TfbXsxQIiF5QFrWKeWJ+y1+kGiEPTCSXyL80UD6/mBUNB5XgMdb6SCQCbHK9IgeoiBrl9lGK8Zzn9
+  learner_created: false
+- name: src/it/unisa/supermarket/ProductComparatorByCode.java
+  visible: true
+  placeholders:
+  - offset: 98
+    length: 31
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 98
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 7Obo3vU5ly8aOEObYeFOSd3PtDUCL6o0aa7CF2mlCJ0=
+  - offset: 135
+    length: 115
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 116
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: rydaPfk0X4RmkWkdkoZFEO2oZc1fEG2vzQfOItOIJnD5rqdaydZeihmdLcrWGah3eEY1NW1Oa77dCd7Eq3bLz/Lc+oiF1DF1GBydz8nkd6kx4zuH3CwDjdkrt08bFJqPSvkDkO5Owr25ahQDciO313ZnGbdi9S5EAqRWr6GvKwVUw3dKm90+wR7MSRFGyoci
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqP6hl174JantgVJVxVzJyCysqXJhzpX+O5SW/Ih7Rh7ymHDOcwFru0N3RJuV0MjM6VNk4EVj+PR2DgSz3yXaL8sOJov6qAcffx+GfMWSh0V7x4gYX0jfbeq8s++N45CWx/gZyO0UR1N8dYthQivbQEmBnJPa3whFQWm3nCpOk7wL
+  learner_created: false
+- name: src/it/unisa/supermarket/ProductComparatorByPrice.java
+  visible: true
+  placeholders:
+  - offset: 31
+    length: 28
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 31
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: NYgHoNruO3t7vIi6YFhoH3kXdnU/zLXLLinCDRPcf8o=
+  - offset: 99
+    length: 30
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 81
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 7Obo3vU5ly8aOEObYeFOSd3PtDUCL6o0aa7CF2mlCJ0=
+  - offset: 137
+    length: 122
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 99
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: rydaPfk0X4RmkWkdkoZFEO2oZc1fEG2vzQfOItOIJnD5rqdaydZeihmdLcrWGah3eEY1NW1Oa77dCd7Eq3bLz/Lc+oiF1DF1GBydz8nkd6kNhTOLrn2Nx9GiW1mxUeF66erK3Vsv8DcFAQqDAVbPl1mk/wR6J6LdSFYZxgXPEhoj4V3IWF7ZylNRP9NSbtmcKE40LGb+nILr6lRJqOnCJg==
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqDzr1KyDHm85b3mxvHYZk0gJTtAkqA5zJtagev7owa0G59bSJOYJE7vVG6Prfge6jbBGIJ/h+Vq7w3sSNIMfmsgQ+nsGthQO3YeP2cpCHUR/9AZNCeed6uEYXzITFdnhfA==
+  learner_created: false
+- name: test/it/unisa/supermarket/SupermarketTest.java
+  visible: true
+  encrypted_text: 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
+  learner_created: false
+- name: test/it/unisa/supermarket/ProductTest.java
+  visible: true
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqP6hl174JantgVJVxVzJyCzxY6204ezBGSexdSLkJY+T0GMZ5mAvcEjHaCU5N+GDIz6O1sF4qKtGBLlQO/picMGiG81U5s74dCZYpDp+wvibUkx+Q5aTdEXA4pHTcw8rUg5fRTSH92skYNs+hKqozWWxgCBmRbfYuTSrCXkJ1ho8wmYwLAhhT7Z09Jn9q1c/fT7sD/+ass5Xt8wsnrE83WoaZhC5Srynn00ozwlw/jSXEGoMuI9p1OI+aUtDRnVXkO2b0fVLN17OH3Fzv6DYe+BfxQHigXfZad6RCWYCPURN+4OevXYJFaZdldpOvbGnD3Cz5Vq927oYrvX/VyPfGN0/j3pCrAq2iMJ9DTLETZPcdCk2xtynvWuzvk55ylP7Abhg3gcz0fZNoRovD1yYRVPuTMft+0uGtTDbN3U5bRJviHf/etl0WvHQ8F9kEdfOQ0VWMR0+DnApN6/nVBsZ5tpX7dfXkH3L+wHe+38NjWRfWXQezDmurMiRGurep9aHV+YqEBob9RAWekD8ZsmQ3ULjflF2iDzyJAnKHieRskp0VsPf5QzEtAD/utaHvmuYC7umCJh4hxsHDdR93XIq7BwvFnESLPKpk/Mzy8aAdgDcw6V5gZWaJ8gQbMNhx4MAHFqv8zMSyv+jLtR5NmIQxt+J4q7LjLc5wnGh5pgS+scdFXP+Yf/uLbyiHRP0szgTbdn+kcYpb8eeuKkAfAeV+QuQODXKN62DHRAFK8OttSs3NzADgnhErLzB9nmqjdhZ8g5L8AnG/F5AH+SBDxvTgY9mmZOcbEUk//JF3is7xuw+IyVUDzS8X7/RG+zY/tqgayOt6QoOo/d5MMcV3IfyPcg291QJYBU5GpZaed6m+8aps3FGdqHEP8w/fzOty5nw14iH/64Efamlh5rn4hmd0PXzjoY/PZbmB1DuMVNgk9oPCsU3L4MVOBTn3apirMCXjXbfskN2V8D4UNpNbdzi2XyE/5LUrBRpT7TtyWOmw1/Q0Y1GkNb/iHqyEYgBVa6qyg49NzlBqeQgjAmjXaWJh6U=
+  learner_created: false
+- name: test/it/unisa/supermarket/GroceryTest.java
+  visible: true
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqP6hl174JantgVJVxVzJyCzxY6204ezBGSexdSLkJY+T0GMZ5mAvcEjHaCU5N+GDIz6O1sF4qKtGBLlQO/picMGiG81U5s74dCZYpDp+wvibUkx+Q5aTdEXA4pHTcw8rUg5fRTSH92skYNs+hKqozWWxgCBmRbfYuTSrCXkJ1ho83WKY4LhDwCgymPfohgq+lzejIOuSZP5toLyibAljfTAGsFoMZxMXHVMZiuexjuficrc4YouDNQ2vqmbogHI6Rnmht30KACc+c34xT0ci9RKSMAnQhXhc0XlG6lC8++GPfn2FsdbrScm5VZg9qMBW4LVh4RtTnYD7l0auaHHsn0RDWvAmgWse11+twZCY7aJS++auhsbcUY5AoYDYA5ZCnCViZ3J9z+5wGKQVHLdpUHXsEcbMMDtpI/RO02E7Z6BbaIxgiNveSZnDrOZYwIfoULCPMkMAWYy3SKtbZYLAHgGOol2F5n5GfUUfo7Or38u7UPyw1W/Ezbz3lh4emNajLCzzl2u8Nl/t0YbJJLn9vsDepDLINEaW/hx3xdq/KM6o3xtT6yiY15DXyHJJiYmz+WRGlgRoBaDUj8I2ZSg3/uqUfbmkdwWEKkzBEBepFnY1SdgBUYcuR1wBPuhwLHBUHrz+pcDKzDiBi37adkEus8fvI0ydN0sqc1UOJsrb3aQHtVErXiIhM0lE5DWsrAtcQXzXp4g4BeM9igqbnA1268GeYUgJx81NqAGpAPUxlgJV6ff1iTYCG94cRGyTtroIQsjTYsQ3et9s88xHYpUEkHhzhUwhDm6tB8tNvsF7b8zn
+  learner_created: false
+- name: test/it/unisa/supermarket/ElectronicTest.java
+  visible: true
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqP6hl174JantgVJVxVzJyCzxY6204ezBGSexdSLkJY+T0GMZ5mAvcEjHaCU5N+GDIz6O1sF4qKtGBLlQO/picMHELlZhYdYwkgbHMpQlwx7aP2PaYsfYXHXh84kifOkWlnD73Wjd124khMtDe4vFitbG//g8J9aVoSRWsfiwI1HedwAmUGabhB6gkJ/BRYrw2bgsVUU1ciDs0zWq0bh5m2m472tX3pGwoZ1M3LMXHKfIncFMUAYe+IkNdhqHDkZbCn3KTsoaPsBrlnoUib95obcCsIZ3rrgfx+8pJRB7BGG1Aw/yAywIlgrx7qnOBvlNkenIf5x1/vtKW9/bOins8llXJRhqCI131b61W2zWHA2j/B+DCgowl5SrlwqVdDvnLkHnGZF/uN+hmFir8KFYUA97T5oUE4dGzozZGkMiJQvOr39v4G+mqfwL3Mn2TvqpGTeR5PPGv+PC9AGpDh3xAylLHWmbTpSyIikglu5C0QZXmmVu3jijMnn7tpqI5GTzYr2SWwsjK6DOwAuQAYil8t6V4lSFUOETmty1wCze6H8/+o6cNgqR1pwFBXGvav8ttZi0F1jVPcsqAuZjcYYfS/L6IgKvsMio4+cBFSHQBD23kIrrCEWh3CSk5NhdNuIJoixsr5iDQns1GipXVgpgAyWiwfID6qRBiabkBg6ku0oq6Xe25HRFZ9Cv8yrVgqeaiMZSFukVkat3kvkEkB8de88fHf6szZC4Bv+4RIvn+D1CLtsZG7jb2BySJv32TGEflM7uCOF62qUFuNJcbUHd0YDMCRnG5E8CIe1LVtVd3TY9jRvN2oUOBugcEXQS1ZnF+vxcFeCx4Mu7G6y0meOwHw8TgpUn2YWMMSEily1JHmf6Sh755JjWmoYiyPVn44nD3Kw1ZjIiAcK7WtdHlKRRsVfI9H1ltRKQbn3wimxv/ml7
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 12 Nov 2022 21:40:35 UTC"
+record: -1

@@ -5,15 +5,19 @@ import java.util.GregorianCalendar;
 public class MedicalTest implements Comparable<MedicalTest> {
 
     final private String doctorName;
-    private double cost;
+    private float cost;
     private String report;
 
     private GregorianCalendar date;
 
-    /* TODO */
+    public MedicalTest(String doctorName, float cost){
+        this.doctorName = doctorName;
+        this.cost = cost;
+    }
 
     public void conductTest(String report, GregorianCalendar date) {
-        /* TODO */
+        this.report = report;
+        this.date = date;
     }
 
     public String getDoctorName() {

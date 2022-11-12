@@ -12,7 +12,18 @@ public class Echocardiogram extends MedicalTest {
     private final int patientAge;
 
     public Echocardiogram(String doctorName, Variants type, int patientAge) {
-        /* TODO */
+        super(doctorName,0);
+        this.type = type;
+        this.patientAge = patientAge;
+
+        if(this.type.equals(Variants.WITH_CONTRAST))
+            super.setCost(45);
+        else super.setCost(30);
+
+        if(this.patientAge >= 65) {
+            float sconto = (float) ((super.getCost()/100) * 20);
+            super.setCost((float) (super.getCost() - sconto));
+        }
     }
 
     public Variants getType() {

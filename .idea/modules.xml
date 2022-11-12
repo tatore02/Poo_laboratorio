@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab_03/Bank/Bank.iml" filepath="$PROJECT_DIR$/Lab_03/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/Bank2/Bank2.iml" filepath="$PROJECT_DIR$/Lab_06/Bank2/Bank2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/Bookshop/Bookshop.iml" filepath="$PROJECT_DIR$/Lab_06/Bookshop/Bookshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_03/CarSeller/CarSeller.iml" filepath="$PROJECT_DIR$/Lab_03/CarSeller/CarSeller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/Company/Company.iml" filepath="$PROJECT_DIR$/Lab_06/Company/Company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_05/Country/Country.iml" filepath="$PROJECT_DIR$/Lab_05/Country/Country.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_03/Dice/Dice.iml" filepath="$PROJECT_DIR$/Lab_03/Dice/Dice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_01/Lab_01.iml" filepath="$PROJECT_DIR$/Lab_01/Lab_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_02/Lab_02.iml" filepath="$PROJECT_DIR$/Lab_02/Lab_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_04/Lab_04.iml" filepath="$PROJECT_DIR$/Lab_04/Lab_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_03/MagicSquare/MagicSquare.iml" filepath="$PROJECT_DIR$/Lab_03/MagicSquare/MagicSquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/MedicalTests/MedicalTests.iml" filepath="$PROJECT_DIR$/Lab_06/MedicalTests/MedicalTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_03/PhoneCompany/PhoneCompany.iml" filepath="$PROJECT_DIR$/Lab_03/PhoneCompany/PhoneCompany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Poo_laboratorio.iml" filepath="$PROJECT_DIR$/.idea/Poo_laboratorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_03/Purse/Purse.iml" filepath="$PROJECT_DIR$/Lab_03/Purse/Purse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_05/Quiz/Quiz.iml" filepath="$PROJECT_DIR$/Lab_05/Quiz/Quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_05/Quiz2/Quiz2.iml" filepath="$PROJECT_DIR$/Lab_05/Quiz2/Quiz2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/Quiz3/Quiz3.iml" filepath="$PROJECT_DIR$/Lab_06/Quiz3/Quiz3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/Railways2/Railways2.iml" filepath="$PROJECT_DIR$/Lab_06/Railways2/Railways2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_05/SMS/SMS.iml" filepath="$PROJECT_DIR$/Lab_05/SMS/SMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/School/School.iml" filepath="$PROJECT_DIR$/Lab_06/School/School.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_05/Student/Student.iml" filepath="$PROJECT_DIR$/Lab_05/Student/Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_03/Tic-tac-toe/Tic-tac-toe.iml" filepath="$PROJECT_DIR$/Lab_03/Tic-tac-toe/Tic-tac-toe.iml" />
+    </modules>
+  </component>
+</project>

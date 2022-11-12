@@ -6,7 +6,12 @@ public class Radiography extends MedicalTest {
     private final boolean medicalRequest;
 
     public Radiography(String doctorName, boolean medicalRequest, String organName) {
-        /* TODO */
+        super(doctorName,20);
+        this.medicalRequest = medicalRequest;
+        this.organName = organName;
+
+        if(this.medicalRequest == true)
+            super.setCost(13);
     }
 
     public void setImgFileName(String imgFileName) {
