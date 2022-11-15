@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unisa.school.StudentTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-11-14T21:39:45" hostname="MacBook-Air-2.local" time="0.029">
+  <properties/>
+  <testcase name="nullMatricolaTest" classname="it.unisa.school.StudentTest" time="0.003"/>
+  <testcase name="averageTest" classname="it.unisa.school.StudentTest" time="0.001"/>
+  <testcase name="tooOldTest" classname="it.unisa.school.StudentTest" time="0.0"/>
+  <testcase name="toStringTest" classname="it.unisa.school.StudentTest" time="0.024"/>
+  <testcase name="addExamTest" classname="it.unisa.school.StudentTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

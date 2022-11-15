@@ -1,0 +1,94 @@
+type: edu
+files:
+- name: src/it/unisa/financialhistory/FinancialHistory.java
+  visible: true
+  placeholders:
+  - offset: 286
+    length: 210
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 295
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 4bEQdncLVMV8ouhbxJAZabkOR2E2WCzZAKNHsTNtESZRmcNxD3hy4JStkTgtzlYvCR/cQvxvgWX+s7+tBukL4YblxX02POIhQynVm7MHmAyf6XijQ/8K6h1csSBS5qO40epHSeCcEgHh+45Sd02gkNQ8USDJKkX4RhtM5RyAE/Ej08Dve9eWdRJlmj7AarNjWc8PZW3Cz1J3ZDZ+e6QlEsu2AqF+p60Fj+Ph4zINslupjanZ3Sn0KY1mY9mOcg37G+f1psTXbqAdR4mey/QPawkIHQyuYPo9oKTeXRykilQ=
+  - offset: 569
+    length: 99
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 378
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 941uTUT/rypC+K37TdTGN9AOcTKOKHtGv24V51kts0kPoxZgDAMrVEBl9TmR+xO8UHMiV20kKPO47NsKPt2zb6Kvh2N5PXDJRP6qBxGNrY1+WzntvvHuNyu7Sa9w7ecG
+  - offset: 729
+    length: 222
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 458
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: JAecY4UxklsQqtvoGJjNkk7ZKuvBr9JWK3BRV+h4/m7yC+pW7BJzm4k3qGR9yplrLJ7x+DK5vofil3q3hD6n3KT3P6y6Xl92YcFEAK0ESr3WJn8SgzS/t0AErW3xww/Y2lzuU4g8LeTXd7cm91prxPOF8sq+i9o7B0mp31uJCD5TgRjrbEhlevICFwTmDAXog+oZggSWnJvqqzmP2Jr65vL50U0qEgiJnUFinkW+TtB8ooqGVJ0KKwjzNaO1tFeW
+  - offset: 1000
+    length: 20
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 517
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: M0XFcJcCKik3Ui/fXMH8gQ==
+  - offset: 1080
+    length: 205
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 596
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: j82HX2/gK3XslpH+V/hvS49AEJ1ZKgEMGbkQSax2793F9F8anahtBPIwlmTgTGmwtVOPiXSeGtaa/lrddPLKkQJdYC2KyYb+OBzYWmqZtp1atwPXu3kqUfDFoRc2zMXVWpmYVRr+LYOd1UpI0MvMibZfzhU1+XQxKq7WGd+B77kYPG+Sgs7G1uuQY1tteOt5XGgAgLROUEej1qOn5aScTdU1RsYOLrXdVWiRWLx7wC3WgCMpRDf9gA12w1NWFVUfgQU4keUpTVJgHXVWHp/y0mZ0ZgNx4b1jFzOkBLE0Uu3r93wPYQxzk4CFrNH5h9JiV6ytlV38d/MkBMWlAbJAPA==
+  - offset: 1350
+    length: 196
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 671
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: BoSDY0xV8K+jobSXXSgGQqj1PFox9xVrNRQh1M7VEOcaFI0ZtFB+rsQCQ7YZ9iLzZJo1zsb4SZt0oLnrEsztE+DN/bFluEDIXKnf6Mnq11J67vKU1fHVlCOZbnQHhrmBfK3X9jrO6gNbKCWWaSjTzrs48CGFBV0/lEohNGX4Km+5C8l2PLJU061DbwA3GYu6Y+ANhPAdUS6rL6eGCiUsioxwMmrlaPcnSbwXBMIvzzjSit0cJ0EVPzWjM19/IMCznZtV07ZgdJYONRb9CcS45bxnbt4wdq5i2BbsJPXdNYh5z6+v9iWRtGKCwYX6GeCN
+  - offset: 1597
+    length: 285
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 732
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: lGQX/oBal8szgXvprKKeSFtis3Gb59pBHydEtHy9A1svO/M8KOg428JM6IZth9BFZ6GEF9J53WMuOLwgeSI4EVNKGN90MM4ECofNck1eQGYENSxfF9kSXdKk8Y7NyFqpGuT3Ys2yXttJc8BtkGB8HGwG1Q7P1Zbgn+4r4sIZA5M=
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqOlW/NJWqpueOda/1B6B2aiZ7f7pAqaR1FgDHAMasz3KTSyA630YxwwfsBoMcV5Po0+VbzlS38t6+MFOx4QSeo40rz6wunUotxSUyeAZ+IBbSGb5EwP+fIctQlYY41dcLgRE1StRO3zmb+u0W6HsP2xOksQZ2ZkkhkdAfSMNbkRDg7/RqTg81eCMCmM7ZxcXWzI0J2Mqckv41s9tk1gDC6XXLKvbCJK5s9HrIkLqlMvEh+z7VdDK5uwAeHpadnH103L4QypS/hXzk2AE59UWZgzwXLJlR+mCeLKBZRUnOu/tXXHbHx1OWQdqobGBz1wIXSMIEQgrgzUYQjfDs600eTQ0kCc1rKy2mNyxAf7QJP0kOV8FRRTPXUQ3M2igl+2JGlJi2uwcCt0+OSzgCk0mLhY5i1oVILBE2ApFBJ8WNfLCnQIcCaUP3jW29z5o4XEOL0wemV1riM5Vuc3t7y0Ql+bq6Z9RXr5eT8dBhGuN0n+m3eLW4sTZrhCEZN1vAKc12K2wF17OCTVbmyQNjybpPg+1r+TmaWoUDRwNx61RapgMD883/cfgG/OBSozU6uIXnz9r7ddygDrLKV+kvJhxqvAZSv95kI3xUGymm2Ui6uxIMi3/udgIWlOnfcpJr8qFDBHqx5d8kQFBnmai65YIH/CSHEdMFYI35/XQE/jo2B8FXjXb+MEhLH8MB7AgIW5ahlM+cRSQUtSx5dUIC4l3pRFjwRxB3aWOByICLHXptYu25TE7v9/xnu1ic/p5vB94EnIDrnrCX5/WLur7SmXt6i+lbPKz17oqUmqtJfCkJsZM7ieBdCH6jqeeBtQ09c5Q1swvGhSLpoGe60N6/iI1N8BFaVUPaKYbAbLeSRwHk2HSo7+gMC+nFYc2jFEZp8D1V0iVsZxJ9e58z+m9996Ya8QOnOP9dH85D00mkbjoh9ecmKxhLJ5jOHHRLZEK7I/rhvED0YMzqJaUszIQb2mlX4TNOMKWjc5JVSduge+o6/WQ
+  learner_created: false
+- name: src/it/unisa/financialhistory/Person.java
+  visible: true
+  encrypted_text: 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
+  learner_created: false
+- name: src/it/unisa/financialhistory/Movement.java
+  visible: true
+  encrypted_text: YsPfolFLo/rZ2mVBdVwjqOlW/NJWqpueOda/1B6B2ajvZh3BIyeMCssAT02MzyGN4EUE8sUso/4MLqxJDJVG9KoV+iK22uZay1hDN1sRhqLB1f1MvsUf5SvAe6UybFbRFlcFq1KYu1ehSrMIAs2K8g4LXEIsid879u0IQ1+FBbSL3UJV3oczrE0RtK6HuFXz2xUoFl6zfxlJJtg807YtV8sdQursq5yUuHzj5u5UJUTcK1LLzziRttYQl9CQ2WIG0R2ErWBRkFQuHoimybZHLkVOebZNgRvFSnEz0vyl9J3lGtRbNsbEuRKaFd/5eqN/emk1PF3ZG+Vfh4X+HiL+8f6yLl4R3qp+IK6LQtdfjQtYgx4Ncp1BIIgrXm6I6WRJaveMvalSIiiPATjxJLQC1Yi+glXD1iuuLS+VyoN3xOhb/EoUk4AOUZvRFgNiWIbhXAi/KF0dJCBW0M7usoBGL0CcG5wkAYtFbwHwlPqcKwBg4HMxmdY0DDldlQxLNI4tlzv35BRXeEna5WGimjJYUAAx3zgE8SWYbcRkOOcDjxc=
+  learner_created: false
+- name: test/it/unisa/financialhistory/FinancialHistoryTest.java
+  visible: true
+  encrypted_text: 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
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 15 Nov 2022 16:13:32 UTC"
+record: -1
