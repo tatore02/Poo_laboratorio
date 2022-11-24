@@ -26,22 +26,68 @@ public class PhoneCompany {
     }
 
     public void readUserDataFromFile(File file) throws FileNotFoundException {
-        /* TODO */
+        Scanner in = new Scanner(file);
+        while(in.hasNextLine()){
+            try{
+                int code = Integer.parseInt(in.nextLine());
+                String name = in.nextLine();
+                String lastName = in.nextLine();
+                int usedMinutes = Integer.parseInt(in.nextLine());
+                int usedSMS = Integer.parseInt(in.nextLine());
+                double usedMB = Double.parseDouble(in.nextLine());
+                User user = new User(code,lastName,lastName);
+                user.setUsedMinutes(usedMinutes);
+                user.setUsedSMS(usedSMS);
+                user.setUsedMB(usedMB);
+                this.users.add(user);
+            }
+            catch (NoSuchElementException | NumberFormatException ex){
+                System.err.println("Il formato del file è errato!");
+                ex.printStackTrace();
+            }
+        }
     }
 
     public void writeUserDataToFile(File file, boolean overwrite) throws FileNotFoundException, FileAlreadyExistsException {
-        /* TODO */
+        if(overwrite == false){
+            if(file.exists())
+                throw new FileAlreadyExistsException("Il file già esiste");
+            else
+                writeUserDataToFile(file);
+        }
+        else{
+            String tmpFileName = file.getParentFile().getName() + File.separator + "tmp_" + file.getName();
+            File tmpFile = new File(tmpFileName);
+            writeUserDataToFile(tmpFile);
+            file.delete();
+            tmpFile.renameTo(file);
+        }
     }
 
-    /* TODO */
+    public void writeUserDataToFile(File file) throws FileNotFoundException {
+        PrintWriter out = new PrintWriter(file);
+        for(User user : this.users){
+            out.println(user.getCode());
+            out.println(user.getName());
+            out.println(user.getLastName());
+            out.println(user.getUsedMinutes());
+            out.println(user.getUsedSMS());
+            out.println(user.getUsedMB());
+        }
+        out.close();
+    }
 
     @SuppressWarnings("unchecked")
     public void readSerializedDataFromFile(File file) throws IOException, ClassNotFoundException {
-        /* TODO */
+        ObjectInputStream in = new ObjectInputStream(new FileInputStream(file));
+        this.users = (List<User>) in.readObject();
+        in.close();
     }
 
     public void writeSerializedDataToFile(File file) throws IOException {
-        /* TODO */
+        ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream(file));
+        out.writeObject(this.users);
+        out.close();
     }
 
     public User findUserByCode(int code) {

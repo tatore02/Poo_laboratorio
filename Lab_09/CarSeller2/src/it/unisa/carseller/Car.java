@@ -2,7 +2,7 @@ package it.unisa.carseller;
 
 import java.io.Serializable;
 
-public class Car /* TODO */{
+public class Car implements Serializable{
     final private String brand;
     final private String model;
     final private int manufacturingYear;

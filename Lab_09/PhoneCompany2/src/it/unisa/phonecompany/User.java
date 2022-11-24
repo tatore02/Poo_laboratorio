@@ -2,7 +2,7 @@ package it.unisa.phonecompany;
 
 import java.io.Serializable;
 
-public class User/* TODO */ {
+public class User implements Serializable {
     private final int code;
     private final String name;
     private final String lastName;

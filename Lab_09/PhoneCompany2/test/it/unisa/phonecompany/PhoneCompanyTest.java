@@ -29,11 +29,42 @@ public class PhoneCompanyTest {
 
     @Test
     public void writeUserDataToFileTest() {
-        /* TODO */
+        PhoneCompany phoneCompany = new PhoneCompany(0.10, 0.05, 2);
+        File file = Path.of("test/").resolve("testData.txt").toFile();
+        try {
+            phoneCompany.readUserDataFromFile(file);
+            int originUsedMinutes = phoneCompany.getUsers().get(0).getUsedMinutes();    //salvo i minuti
+            phoneCompany.getUsers().get(0).setUsedMinutes(100);
+            phoneCompany.writeUserDataToFile(file,true);
+
+            phoneCompany.readUserDataFromFile(file);
+            Assert.assertEquals(100,phoneCompany.getUsers().get(0).getUsedMinutes());
+
+            //resetto i minuti
+            phoneCompany.getUsers().get(0).setUsedMinutes(originUsedMinutes);
+            phoneCompany.writeUserDataToFile(file,true);
+        }
+        catch (FileNotFoundException | FileAlreadyExistsException ex){
+            throw new RuntimeException(ex);
+        }
     }
 
     @Test
     public void writeSerializedDataToFileTest() {
-        /* TODO */
+        PhoneCompany phoneCompany = new PhoneCompany(0.10, 0.05, 2);
+        File file = Path.of("test/").resolve("testData.txt").toFile();
+        File binFile = new File("test/testData.dat");
+        try {
+            phoneCompany.readUserDataFromFile(file);
+            phoneCompany.writeSerializedDataToFile(binFile);
+
+            phoneCompany.readSerializedDataFromFile(binFile);
+            Assert.assertEquals(2,phoneCompany.getUsers().size());  //ERRORE
+
+            binFile.delete();
+        }
+        catch (IOException | ClassNotFoundException e){
+            throw new RuntimeException(e);
+        }
     }
 }
